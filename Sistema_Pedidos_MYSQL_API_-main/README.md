@@ -5,5 +5,5 @@
 2. Ajuste `spring.datasource.password` no arquivo `src/main/resources/application.properties`.
 3. Rode:
    mvn spring-boot:run
-4. Abra o Swagger UI: http://localhost:8080/swagger-ui/index.html
+4. Abra o Swagger UI:]http://localhost:9090/swagger-ui/index.html#/
 
